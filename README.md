@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-YearEnd provides financial year‑end reporting automation tools for businesses, enabling seamless aggregation, validation, and filing of fiscal statements. The platform integrates with accounting software, tax services, and ERP systems to streamline closing processes, reduce manual effort, and ensure compliance with regulatory standards. Founded with backing from Gradient Ventures, YearEnd aims to simplify complex financial workflows for enterprises of all sizes.
+YearEnd (yearend.com) is a Gradient Ventures portfolio company. Its website returned no response when it was profiled (2026-11-08), so nothing about its products or APIs is recorded here yet.
 
-**Areas:** Finance · Automation · Accounting · SaaS · Enterprise
+**Areas:** Company
 
 ## YearEnd on APIs.io
 
